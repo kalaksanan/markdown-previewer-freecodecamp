@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/markdown-previewer-freecodecamp/static/css/main.efd0fd84.chunk.css",
+    "main.js": "/markdown-previewer-freecodecamp/static/js/main.2c9d6ecc.chunk.js",
+    "main.js.map": "/markdown-previewer-freecodecamp/static/js/main.2c9d6ecc.chunk.js.map",
+    "runtime-main.js": "/markdown-previewer-freecodecamp/static/js/runtime-main.5683f4fa.js",
+    "runtime-main.js.map": "/markdown-previewer-freecodecamp/static/js/runtime-main.5683f4fa.js.map",
+    "static/js/2.5277baaa.chunk.js": "/markdown-previewer-freecodecamp/static/js/2.5277baaa.chunk.js",
+    "static/js/2.5277baaa.chunk.js.map": "/markdown-previewer-freecodecamp/static/js/2.5277baaa.chunk.js.map",
+    "static/js/3.91c9333d.chunk.js": "/markdown-previewer-freecodecamp/static/js/3.91c9333d.chunk.js",
+    "static/js/3.91c9333d.chunk.js.map": "/markdown-previewer-freecodecamp/static/js/3.91c9333d.chunk.js.map",
+    "index.html": "/markdown-previewer-freecodecamp/index.html",
+    "static/css/main.efd0fd84.chunk.css.map": "/markdown-previewer-freecodecamp/static/css/main.efd0fd84.chunk.css.map",
+    "static/js/2.5277baaa.chunk.js.LICENSE.txt": "/markdown-previewer-freecodecamp/static/js/2.5277baaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5683f4fa.js",
+    "static/js/2.5277baaa.chunk.js",
+    "static/css/main.efd0fd84.chunk.css",
+    "static/js/main.2c9d6ecc.chunk.js"
+  ]
+}
